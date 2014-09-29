@@ -89,10 +89,10 @@ you are NOT allowed to use shared memory.
 * Plot a graph of the comparison and write a short explanation of the phenomenon you
   see here.
 * I don't have a high resolution CPU clock in visual studio, though I tried many ways 
-  to find one, like <chrono> which doesn'r support VS2010. Anyway, I couln'd get 
-timer readings less than 1 ms resolution. 
+  to find one, like "chrono" which doesn't support VS2010. Anyway, I couldn't get 
+CPU timer readings less than 1 ms resolution. 
 But what I observe for GPU version, when array size goes larger, computation time
-increases. And I think same applied to CPU version. Not sure which one performs better.
+increases. And I think same applies to CPU version. Not sure which one performs better.
 
 
 # PART 3 : OPTIMIZING PREFIX SUM
