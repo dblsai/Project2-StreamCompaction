@@ -88,6 +88,12 @@ you are NOT allowed to use shared memory.
   include a table of how the runtimes compare on different lengths of arrays.
 * Plot a graph of the comparison and write a short explanation of the phenomenon you
   see here.
+I don't have a high resolution CPU clock in visual studio, though I tried many ways 
+  to find one, like <chrono> which doesn'r support VS2010. Anyway, I couln'd get 
+timer readings less than 1 ms resolution. 
+But what I observe for GPU version, when array size goes larger, computation time
+increases. And I think same applied to CPU version. Not sure which one performs better.
+
 
 # PART 3 : OPTIMIZING PREFIX SUM
 In the previous section we did not take into account shared memory.  In the
@@ -106,6 +112,13 @@ to arbitrary length arrays, this includes arrays that will not fit on one block.
 * Compare this version to the parallel prefix sum using global memory.
 * Plot a graph of the comparison and write a short explanation of the phenomenon
   you see here.
+![alt tag](/imgs/SM_G_fixedN.png)
+When Array size is fixed, speed increases when Block size is larger. Big Block size 
+is not always good, performance decrease after 128. 
+
+![alt tag](/imgs/SM_G_fixedB.png)
+When Block size is fixed, speed decrease when array size is larger. And Shared memory
+version alway does a better job than Global memory version.
 
 # PART 4 : ADDING SCATTER
 First create a serial version of scatter by expanding the serial version of
@@ -117,6 +130,9 @@ array for you.  Finally, write a version using thrust.
 * Compare your version of stream compact to your version using thrust.  How do
   they compare?  How might you optimize yours more, or how might thrust's stream
   compact be optimized.
+![alt tag](/imgs/T_SM_fixedB.png)
+Thrust always performs in a constant speed, no matter how big the array size.
+Things to optimize in my version:  work-efficient code + handling bank collisions.
 
 # EXTRA CREDIT (+10)
 For extra credit, please optimize your prefix sum for work parallelism and to
