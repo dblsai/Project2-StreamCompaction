@@ -88,7 +88,7 @@ you are NOT allowed to use shared memory.
   include a table of how the runtimes compare on different lengths of arrays.
 * Plot a graph of the comparison and write a short explanation of the phenomenon you
   see here.
-*I don't have a high resolution CPU clock in visual studio, though I tried many ways 
+* I don't have a high resolution CPU clock in visual studio, though I tried many ways 
   to find one, like <chrono> which doesn'r support VS2010. Anyway, I couln'd get 
 timer readings less than 1 ms resolution. 
 But what I observe for GPU version, when array size goes larger, computation time
