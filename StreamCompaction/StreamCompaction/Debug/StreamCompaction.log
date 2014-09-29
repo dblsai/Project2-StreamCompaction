@@ -1,0 +1,26 @@
+﻿Build started 2014/9/29 9:46:18.
+     1>Project "C:\Users\AppleDu\Documents\GitHub\Project2-StreamCompaction\StreamCompaction\StreamCompaction\StreamCompaction.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\StreamCompaction.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       AddCudaCompileDeps:
+       Skipping target "AddCudaCompileDeps" because all output files are up-to-date with respect to the input files.
+       AddCudaCompilePropsDeps:
+       Skipping target "AddCudaCompilePropsDeps" because all output files are up-to-date with respect to the input files.
+       CudaBuild:
+       Skipping target "CudaBuild" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\StreamCompaction.unsuccessfulbuild".
+         Touching "Debug\StreamCompaction.lastbuildstate".
+     1>Done Building Project "C:\Users\AppleDu\Documents\GitHub\Project2-StreamCompaction\StreamCompaction\StreamCompaction\StreamCompaction.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.14

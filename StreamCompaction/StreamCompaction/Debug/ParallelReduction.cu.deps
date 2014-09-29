@@ -1,0 +1,935 @@
+Q:\CUDA5.5\include\cuda_runtime.h
+q:\cuda5.5\include\host_config.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\sal.h
+d:\program files (x86)\microsoft visual studio 10.0\vc\include\codeanalysis\sourceannotations.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\vadefs.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\host_defines.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\limits.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stddef.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\channel_descriptor.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\cuda_runtime_api.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\cuda_device_runtime_api.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\cuda_runtime_api.h
+q:\cuda5.5\include\driver_functions.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\vector_functions.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\common_functions.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\host_defines.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wtime.inl
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl
+q:\cuda5.5\include\math_functions.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\host_defines.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\math.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\yvals.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\use_ansi.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\math.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstdlib
+q:\cuda5.5\include\cuda_surface_types.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\channel_descriptor.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\cuda_texture_types.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\channel_descriptor.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\device_functions.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\sm_11_atomic_functions.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\sm_12_atomic_functions.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\sm_13_double_functions.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\sm_20_atomic_functions.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\sm_32_atomic_functions.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\sm_35_atomic_functions.h
+q:\cuda5.5\include\sm_32_atomic_functions.h
+q:\cuda5.5\include\sm_20_intrinsics.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\sm_30_intrinsics.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\sm_32_intrinsics.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\sm_35_intrinsics.h
+q:\cuda5.5\include\sm_32_intrinsics.h
+q:\cuda5.5\include\surface_functions.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\cuda_surface_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\vector_functions.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\texture_fetch_functions.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\cuda_texture_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_functions.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\texture_indirect_functions.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\vector_functions.h
+q:\cuda5.5\include\surface_indirect_functions.h
+q:\cuda5.5\include\builtin_types.h
+q:\cuda5.5\include\device_types.h
+q:\cuda5.5\include\driver_types.h
+q:\cuda5.5\include\surface_types.h
+q:\cuda5.5\include\texture_types.h
+q:\cuda5.5\include\vector_types.h
+q:\cuda5.5\include\host_defines.h
+q:\cuda5.5\include\vector_functions.h
+q:\cuda5.5\include\device_launch_parameters.h
+q:\cuda5.5\include\vector_types.h
+Q:\CUDA5.5\include\cuda.h
+Q:\CUDA5.5\include\thrust/copy.h
+Q:\CUDA5.5\include\thrust/detail/config.h
+Q:\CUDA5.5\include\thrust/detail/config/config.h
+Q:\CUDA5.5\include\thrust/detail/config/simple_defines.h
+Q:\CUDA5.5\include\thrust/detail/config/compiler.h
+Q:\CUDA5.5\include\cuda.h
+Q:\CUDA5.5\include\thrust/detail/config/host_system.h
+Q:\CUDA5.5\include\thrust/detail/config/device_system.h
+Q:\CUDA5.5\include\thrust/detail/config/host_device.h
+Q:\CUDA5.5\include\host_defines.h
+Q:\CUDA5.5\include\thrust/detail/config/debug.h
+Q:\CUDA5.5\include\thrust/detail/config/compiler_fence.h
+Q:\CUDA5.5\include\thrust/detail/config/forceinline.h
+Q:\CUDA5.5\include\thrust/detail/config/hd_warning_disable.h
+Q:\CUDA5.5\include\thrust/detail/execution_policy.h
+Q:\CUDA5.5\include\thrust/detail/copy.h
+Q:\CUDA5.5\include\thrust/detail/copy.inl
+Q:\CUDA5.5\include\thrust/system/detail/generic/select_system.h
+Q:\CUDA5.5\include\thrust/detail/type_traits.h
+Q:\CUDA5.5\include\thrust/detail/type_traits/has_trivial_assign.h
+Q:\CUDA5.5\include\thrust/detail/type_traits/is_metafunction_defined.h
+Q:\CUDA5.5\include\thrust/detail/type_traits/has_nested_type.h
+Q:\CUDA5.5\include\thrust/iterator/detail/minimum_system.h
+Q:\CUDA5.5\include\thrust/detail/type_traits/minimum_type.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/type_traits.h
+Q:\CUDA5.5\include\thrust/iterator/iterator_traits.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\iterator
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\istream
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ostream
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ios
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocnum
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\climits
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstdio
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\swprintf.inl
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\streambuf
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xiosbase
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstring
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdexcept
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\exception
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xstddef
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstddef
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\eh.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\malloc.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xstring
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xmemory
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\new
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xutility
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\utility
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\iosfwd
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cwchar
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdbg.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\type_traits
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\limits
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ymath.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cfloat
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\float.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtwrn.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xtr1common
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\typeinfo
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocinfo
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocinfo.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ctype.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\locale.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xdebug
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\system_error
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cerrno
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\errno.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\share.h
+Q:\CUDA5.5\include\thrust/iterator/detail/iterator_traversal_tags.h
+Q:\CUDA5.5\include\thrust/iterator/detail/host_system_tag.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/execution_policy.h
+Q:\CUDA5.5\include\thrust/iterator/detail/device_system_tag.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/execution_policy.h
+Q:\CUDA5.5\include\thrust/iterator/detail/any_system_tag.h
+Q:\CUDA5.5\include\thrust/iterator/detail/iterator_traits.inl
+Q:\CUDA5.5\include\thrust/iterator/iterator_categories.h
+Q:\CUDA5.5\include\thrust/iterator/detail/universal_categories.h
+Q:\CUDA5.5\include\thrust/iterator/detail/iterator_category_to_traversal.h
+Q:\CUDA5.5\include\thrust/iterator/detail/iterator_category_to_system.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/copy.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/tag.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/copy.inl
+Q:\CUDA5.5\include\thrust/functional.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\functional
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfunctional
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xrefwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxresult
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxresult
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxresult
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxresult
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxresult
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxresult
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxresult
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxresult
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxresult
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxresult
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxresult
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallobj
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallobj
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallobj
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallobj
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallobj
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallobj
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallobj
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallobj
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallobj
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallobj
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallobj
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxpmfcaller
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxpmfcaller
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxpmfcaller
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxpmfcaller
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxpmfcaller
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxpmfcaller
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxpmfcaller
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxpmfcaller
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxpmfcaller
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxpmfcaller
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxpmfcaller
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallpmf
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallpmf
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallpmf
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallpmf
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallpmf
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallpmf
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallpmf
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallpmf
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallpmf
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallpmf
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallpmf
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallfun
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallfun
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallfun
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallfun
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallfun
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallfun
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallfun
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallfun
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallfun
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallfun
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallfun
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xawrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxcallwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxrefwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxrefwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxrefwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxrefwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxrefwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxrefwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxrefwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxrefwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxrefwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxrefwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxrefwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxmem_fn
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxmem_fn
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxmem_fn
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxmem_fn
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxmem_fn
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxmem_fn
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxmem_fn
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxmem_fn
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxmem_fn
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxmem_fn
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxfunction
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxfunction
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxfunction
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxfunction
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxfunction
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxfunction
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxfunction
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxfunction
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxfunction
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxfunction
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxfunction
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xawrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind0
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind0
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind0
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind0
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind0
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind0
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind0
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind0
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind0
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind0
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind0
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxbind1
+Q:\CUDA5.5\include\thrust/detail/functional/placeholder.h
+Q:\CUDA5.5\include\thrust/detail/functional/actor.h
+Q:\CUDA5.5\include\thrust/tuple.h
+Q:\CUDA5.5\include\thrust/detail/tuple.inl
+Q:\CUDA5.5\include\thrust/detail/swap.h
+Q:\CUDA5.5\include\thrust/pair.h
+Q:\CUDA5.5\include\thrust/detail/pair.inl
+Q:\CUDA5.5\include\thrust/detail/functional/value.h
+Q:\CUDA5.5\include\thrust/detail/functional/composite.h
+Q:\CUDA5.5\include\thrust/detail/functional/operators/assignment_operator.h
+Q:\CUDA5.5\include\thrust/detail/functional/operators/operator_adaptors.h
+Q:\CUDA5.5\include\thrust/detail/type_traits/result_of.h
+Q:\CUDA5.5\include\thrust/detail/type_traits/function_traits.h
+Q:\CUDA5.5\include\thrust/detail/functional/actor.inl
+Q:\CUDA5.5\include\thrust/detail/functional/argument.h
+Q:\CUDA5.5\include\thrust/detail/functional.inl
+Q:\CUDA5.5\include\thrust/detail/functional/operators.h
+Q:\CUDA5.5\include\thrust/detail/functional/operators/arithmetic_operators.h
+Q:\CUDA5.5\include\thrust/detail/functional/operators/relational_operators.h
+Q:\CUDA5.5\include\thrust/detail/functional/operators/logical_operators.h
+Q:\CUDA5.5\include\thrust/detail/functional/operators/bitwise_operators.h
+Q:\CUDA5.5\include\thrust/detail/functional/operators/compound_assignment_operators.h
+Q:\CUDA5.5\include\thrust/detail/internal_functional.h
+Q:\CUDA5.5\include\thrust/iterator/detail/tuple_of_iterator_references.h
+Q:\CUDA5.5\include\thrust/detail/reference_forward_declaration.h
+Q:\CUDA5.5\include\thrust/detail/use_default.h
+Q:\CUDA5.5\include\thrust/detail/raw_reference_cast.h
+Q:\CUDA5.5\include\thrust/detail/raw_pointer_cast.h
+Q:\CUDA5.5\include\thrust/detail/type_traits/pointer_traits.h
+Q:\CUDA5.5\include\thrust/detail/raw_reference_cast.inl
+Q:\CUDA5.5\include\thrust/detail/tuple_transform.h
+Q:\CUDA5.5\include\thrust/detail/tuple_meta_transform.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\intrin.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\setjmp.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\immintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wmmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\nmmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\smmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\tmmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\pmmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\emmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xmmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\mmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ammintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\mm3dnow.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\mmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+Q:\CUDA5.5\include\thrust/transform.h
+Q:\CUDA5.5\include\thrust/detail/transform.inl
+Q:\CUDA5.5\include\thrust/system/detail/generic/transform.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/transform.inl
+Q:\CUDA5.5\include\thrust/for_each.h
+Q:\CUDA5.5\include\thrust/detail/for_each.inl
+Q:\CUDA5.5\include\thrust/system/detail/generic/for_each.h
+Q:\CUDA5.5\include\thrust/detail/static_assert.h
+Q:\CUDA5.5\include\thrust/system/detail/adl/for_each.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/for_each.h
+Q:\CUDA5.5\include\thrust/system/detail/internal/scalar/for_each.h
+Q:\CUDA5.5\include\thrust/detail/function.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/for_each.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/for_each.inl
+Q:\CUDA5.5\include\thrust/detail/minmax.h
+Q:\CUDA5.5\include\thrust/distance.h
+Q:\CUDA5.5\include\thrust/detail/distance.inl
+Q:\CUDA5.5\include\thrust/advance.h
+Q:\CUDA5.5\include\thrust/detail/advance.inl
+Q:\CUDA5.5\include\thrust/system/detail/generic/advance.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/advance.inl
+Q:\CUDA5.5\include\thrust/system/detail/generic/distance.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/distance.inl
+Q:\CUDA5.5\include\thrust/system/cuda/detail/detail/launch_closure.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/cuda_launch_config.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/detail/launch_closure.inl
+Q:\CUDA5.5\include\thrust/detail/temporary_array.h
+Q:\CUDA5.5\include\thrust/iterator/retag.h
+Q:\CUDA5.5\include\thrust/iterator/detail/retag.h
+Q:\CUDA5.5\include\thrust/iterator/detail/tagged_iterator.h
+Q:\CUDA5.5\include\thrust/iterator/iterator_adaptor.h
+Q:\CUDA5.5\include\thrust/iterator/iterator_facade.h
+Q:\CUDA5.5\include\thrust/iterator/detail/iterator_facade_category.h
+Q:\CUDA5.5\include\thrust/iterator/detail/is_iterator_category.h
+Q:\CUDA5.5\include\thrust/iterator/detail/distance_from_result.h
+Q:\CUDA5.5\include\thrust/iterator/detail/iterator_adaptor_base.h
+Q:\CUDA5.5\include\thrust/detail/pointer.h
+Q:\CUDA5.5\include\thrust/detail/pointer.inl
+Q:\CUDA5.5\include\thrust/detail/contiguous_storage.h
+Q:\CUDA5.5\include\thrust/iterator/detail/normal_iterator.h
+Q:\CUDA5.5\include\thrust/iterator/detail/is_trivial_iterator.h
+Q:\CUDA5.5\include\thrust/detail/allocator/allocator_traits.h
+Q:\CUDA5.5\include\thrust/detail/allocator/allocator_traits.inl
+Q:\CUDA5.5\include\thrust/detail/type_traits/has_member_function.h
+Q:\CUDA5.5\include\thrust/detail/type_traits/is_call_possible.h
+Q:\CUDA5.5\include\thrust/detail/contiguous_storage.inl
+Q:\CUDA5.5\include\thrust/detail/allocator/copy_construct_range.h
+Q:\CUDA5.5\include\thrust/detail/allocator/copy_construct_range.inl
+Q:\CUDA5.5\include\thrust/iterator/zip_iterator.h
+Q:\CUDA5.5\include\thrust/iterator/detail/zip_iterator_base.h
+Q:\CUDA5.5\include\thrust/iterator/detail/minimum_category.h
+Q:\CUDA5.5\include\thrust/iterator/detail/zip_iterator.inl
+Q:\CUDA5.5\include\thrust/detail/allocator/default_construct_range.h
+Q:\CUDA5.5\include\thrust/detail/allocator/default_construct_range.inl
+Q:\CUDA5.5\include\thrust/uninitialized_fill.h
+Q:\CUDA5.5\include\thrust/detail/uninitialized_fill.inl
+Q:\CUDA5.5\include\thrust/system/detail/generic/uninitialized_fill.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/uninitialized_fill.inl
+Q:\CUDA5.5\include\thrust/fill.h
+Q:\CUDA5.5\include\thrust/detail/fill.inl
+Q:\CUDA5.5\include\thrust/system/detail/generic/fill.h
+Q:\CUDA5.5\include\thrust/generate.h
+Q:\CUDA5.5\include\thrust/detail/generate.inl
+Q:\CUDA5.5\include\thrust/system/detail/generic/generate.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/generate.inl
+Q:\CUDA5.5\include\thrust/system/detail/adl/generate.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/generate.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/generate.h
+Q:\CUDA5.5\include\thrust/system/detail/adl/fill.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/fill.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/fill.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/fill.inl
+Q:\CUDA5.5\include\thrust/detail/util/align.h
+Q:\CUDA5.5\include\thrust/detail/cstdint.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/runtime_introspection.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/runtime_introspection.inl
+Q:\CUDA5.5\include\thrust/system/cuda/detail/guarded_cuda_runtime_api.h
+Q:\CUDA5.5\include\cuda_runtime_api.h
+Q:\CUDA5.5\include\thrust/detail/util/blocking.h
+Q:\CUDA5.5\include\thrust/system_error.h
+Q:\CUDA5.5\include\thrust/system/error_code.h
+Q:\CUDA5.5\include\thrust/system/detail/errno.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\iostream
+Q:\CUDA5.5\include\thrust/system/detail/error_category.inl
+Q:\CUDA5.5\include\thrust/system/detail/error_code.inl
+Q:\CUDA5.5\include\thrust/system/detail/error_condition.inl
+Q:\CUDA5.5\include\thrust/system/system_error.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string
+Q:\CUDA5.5\include\thrust/system/detail/system_error.inl
+Q:\CUDA5.5\include\thrust/system/cuda/error.h
+Q:\CUDA5.5\include\driver_types.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/error.inl
+Q:\CUDA5.5\include\thrust/system/detail/adl/uninitialized_fill.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/uninitialized_fill.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/uninitialized_fill.h
+Q:\CUDA5.5\include\thrust/detail/allocator/destroy_range.h
+Q:\CUDA5.5\include\thrust/detail/allocator/destroy_range.inl
+Q:\CUDA5.5\include\thrust/detail/allocator/fill_construct_range.h
+Q:\CUDA5.5\include\thrust/detail/allocator/fill_construct_range.inl
+Q:\CUDA5.5\include\thrust/detail/allocator/temporary_allocator.h
+Q:\CUDA5.5\include\thrust/detail/allocator/tagged_allocator.h
+Q:\CUDA5.5\include\thrust/detail/allocator/tagged_allocator.inl
+Q:\CUDA5.5\include\thrust/memory.h
+Q:\CUDA5.5\include\thrust/detail/reference.h
+Q:\CUDA5.5\include\thrust/detail/reference.inl
+Q:\CUDA5.5\include\thrust/system/detail/generic/memory.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/memory.inl
+Q:\CUDA5.5\include\thrust/system/detail/adl/malloc_and_free.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/malloc_and_free.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/malloc_and_free.h
+Q:\CUDA5.5\include\thrust/system/detail/bad_alloc.h
+Q:\CUDA5.5\include\thrust/detail/malloc_and_free.h
+Q:\CUDA5.5\include\thrust/system/detail/adl/get_value.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/get_value.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/get_value.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/assign_value.h
+Q:\CUDA5.5\include\thrust/system/detail/adl/assign_value.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/assign_value.h
+Q:\CUDA5.5\include\thrust/system/detail/adl/iter_swap.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/iter_swap.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/iter_swap.h
+Q:\CUDA5.5\include\thrust/swap.h
+Q:\CUDA5.5\include\thrust/detail/swap.inl
+Q:\CUDA5.5\include\thrust/detail/swap_ranges.inl
+Q:\CUDA5.5\include\thrust/system/detail/generic/swap_ranges.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/swap_ranges.inl
+Q:\CUDA5.5\include\thrust/system/detail/adl/swap_ranges.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/swap_ranges.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/swap_ranges.h
+Q:\CUDA5.5\include\thrust/detail/temporary_buffer.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/temporary_buffer.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/temporary_buffer.inl
+Q:\CUDA5.5\include\thrust/system/detail/adl/temporary_buffer.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/temporary_buffer.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/temporary_buffer.h
+Q:\CUDA5.5\include\thrust/detail/allocator/temporary_allocator.inl
+Q:\CUDA5.5\include\thrust/detail/allocator/no_throw_allocator.h
+Q:\CUDA5.5\include\thrust/detail/temporary_array.inl
+Q:\CUDA5.5\include\thrust/system/cuda/detail/synchronize.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/synchronize.inl
+Q:\CUDA5.5\include\thrust/system/cuda/detail/detail/launch_calculator.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/detail/launch_calculator.inl
+Q:\CUDA5.5\include\thrust/system/detail/adl/transform.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/transform.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/transform.h
+Q:\CUDA5.5\include\thrust/system/detail/adl/copy.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/copy.h
+Q:\CUDA5.5\include\thrust/system/detail/internal/scalar/copy.h
+Q:\CUDA5.5\include\thrust/system/detail/internal/scalar/copy.inl
+Q:\CUDA5.5\include\thrust/detail/dispatch/is_trivial_copy.h
+Q:\CUDA5.5\include\thrust/system/detail/internal/scalar/general_copy.h
+Q:\CUDA5.5\include\thrust/system/detail/internal/scalar/trivial_copy.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/copy.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/copy.inl
+Q:\CUDA5.5\include\thrust/system/cuda/detail/copy_device_to_device.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/copy_device_to_device.inl
+Q:\CUDA5.5\include\thrust/system/cuda/detail/copy_cross_system.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/copy_cross_system.inl
+Q:\CUDA5.5\include\thrust/system/cuda/detail/trivial_copy.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/trivial_copy.inl
+Q:\CUDA5.5\include\thrust/system/cuda/detail/trivial_copy.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/trivial_copy.h
+Q:\CUDA5.5\include\thrust/detail/copy_if.h
+Q:\CUDA5.5\include\thrust/detail/copy_if.inl
+Q:\CUDA5.5\include\thrust/system/detail/generic/copy_if.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/copy_if.inl
+Q:\CUDA5.5\include\thrust/scan.h
+Q:\CUDA5.5\include\thrust/detail/scan.inl
+Q:\CUDA5.5\include\thrust/system/detail/generic/scan.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/scan.inl
+Q:\CUDA5.5\include\thrust/detail/type_traits/iterator/is_output_iterator.h
+Q:\CUDA5.5\include\thrust/iterator/detail/any_assign.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/scan_by_key.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/scan_by_key.inl
+Q:\CUDA5.5\include\thrust/replace.h
+Q:\CUDA5.5\include\thrust/detail/replace.inl
+Q:\CUDA5.5\include\thrust/system/detail/generic/replace.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/replace.inl
+Q:\CUDA5.5\include\thrust/system/detail/adl/replace.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/replace.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/replace.h
+Q:\CUDA5.5\include\thrust/system/detail/adl/scan.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/scan.h
+Q:\CUDA5.5\include\thrust/system/detail/internal/scalar/scan.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/scan.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/scan.inl
+Q:\CUDA5.5\include\thrust/system/cuda/detail/detail/fast_scan.h
+q:\cuda5.5\include\thrust\system\cuda\detail\detail\fast_scan.inl
+Q:\CUDA5.5\include\thrust/system/cuda/detail/reduce_intervals.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/reduce_intervals.inl
+Q:\CUDA5.5\include\thrust/system/detail/internal/decompose.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/extern_shared_ptr.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/block/reduce.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/default_decomposition.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/default_decomposition.inl
+Q:\CUDA5.5\include\thrust/system/cuda/detail/detail/uninitialized.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/detail/alignment.h
+Q:\CUDA5.5\include\thrust/system/detail/adl/scan_by_key.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/scan_by_key.h
+Q:\CUDA5.5\include\thrust/system/detail/internal/scalar/scan_by_key.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/scan_by_key.h
+Q:\CUDA5.5\include\thrust/scatter.h
+Q:\CUDA5.5\include\thrust/detail/scatter.inl
+Q:\CUDA5.5\include\thrust/system/detail/generic/scatter.h
+Q:\CUDA5.5\include\thrust/system/detail/generic/scatter.inl
+Q:\CUDA5.5\include\thrust/iterator/permutation_iterator.h
+Q:\CUDA5.5\include\thrust/iterator/detail/permutation_iterator_base.h
+Q:\CUDA5.5\include\thrust/system/detail/adl/scatter.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/scatter.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/scatter.h
+Q:\CUDA5.5\include\thrust/system/detail/adl/copy_if.h
+Q:\CUDA5.5\include\thrust/system/cpp/detail/copy_if.h
+Q:\CUDA5.5\include\thrust/system/detail/internal/scalar/copy_if.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/copy_if.h
+Q:\CUDA5.5\include\thrust/system/cuda/detail/copy_if.inl
+Q:\CUDA5.5\include\thrust/iterator/transform_iterator.h
+Q:\CUDA5.5\include\thrust/iterator/detail/transform_iterator.inl
+Q:\CUDA5.5\include\thrust/system/cuda/detail/block/inclusive_scan.h
+c:\users\appledu\documents\github\project2-streamcompaction\streamcompaction\streamcompaction\ParallelReductioin.h
+Q:\CUDA5.5\include\cuda.h
+c:\users\appledu\documents\github\project2-streamcompaction\streamcompaction\streamcompaction\utility.h
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\sstream
